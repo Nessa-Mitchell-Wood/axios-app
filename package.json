@@ -1,12 +1,8 @@
 {
-  "name": "axios-app-scaffold",
+  "name": "manifest-manager",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": {
-    "url": "https://github.com/Nessa-Mitchell-Wood/axios-app.git",
-    "type": "github"
-  },
   "scripts": {
     "css": "npx @tailwindcss/cli -i ./src/main.css -o ./static/css/main.css --watch",
     "dev": "npx tsx --watch ./src/index.tsx",
