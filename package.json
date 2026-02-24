@@ -13,7 +13,7 @@
     "link": "link node_modules/htmx.org/dist/htmx.min.js ./static/js/htmx.js && link node_modules/alpinejs/dist/cdn.min.js ./static/js/alpine.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nessa Mitchell-Wood <nessa@axiosmedident.com>",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
